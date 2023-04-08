@@ -2,4 +2,4 @@
 
 *.php
 
-!nine.php
+[aeiou]*.txt
